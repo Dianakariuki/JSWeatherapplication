@@ -2,5 +2,3 @@
 ## Use HTML <div> tag to design the weather container.
 ## Use another <div> that contains the search bar, app title, and current location button.
 ## Use <div> tag for notification whenever API fails to fetch the weather conditions.
-## Use <div> tag for sub box that contains the weather fetched by API.
-## Successive divs for weather icons, temperat
